@@ -41,16 +41,17 @@ THEN I exit the application, and the HTML is generated
 This project requires you to use inquirer and jest.
 Use 'npm install' in your terminal to install the dependencies.
 Enter into 'Main' and run 'node index.js' from there to start the application.
-The server.js can be started by running 'npm run start', and from there you can GET, POST, USE, and DELETE in Insomnia!
+Enter the 'test' directory and run 'npm test' in order to see if the tests pass.
 
 ## Usage
 
 The script can be found on https://github.com/eddygoto/E-Commerce-Back-End.
-[!Screenshot](/Screen%20Shot%202023-03-18%20at%201.06.36%20AM.png)
+![Screenshot](/assets/html.png)
+![JestScreenshot](/assets/jest.png)
 
 ## Credits
 
-ORM Student Mini Project
+None
 
 ## License
 
