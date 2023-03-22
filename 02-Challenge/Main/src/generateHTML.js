@@ -49,7 +49,7 @@ const generateIntern = (intern) => {
             <div class="card-body">
                 <p class="id">ID: ${intern.getId()}</p>
                 <p class="email">Email: ${intern.getEmail()}</p>
-                <p class="office">Office Number: ${intern.getSchool()}</p>
+                <p class="school">School: ${intern.getSchool()}</p>
             </div>
         </div>
     </div>

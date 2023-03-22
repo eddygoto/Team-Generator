@@ -51,7 +51,7 @@ const answers = await inquirer
             answers.name,
             answers.id,
             answers.email,
-            answers.officeNumber,
+            managerAnswers.officeNumber,
         );
         employees.push(newManager);
 
@@ -68,7 +68,7 @@ const answers = await inquirer
             answers.name,
             answers.id,
             answers.email,
-            answers.github,
+            engineerAnswers.github,
         );
         employees.push(newEngineer);
 
@@ -85,7 +85,7 @@ const answers = await inquirer
             answers.name,
             answers.id,
             answers.email,
-            answers.school,
+            internAnswers.school,
         );
         employees.push(newIntern);
     }

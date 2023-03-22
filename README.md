@@ -48,9 +48,12 @@ Answer the questions, and the answers will create cards for each employee in ind
 
 Enter the 'test' directory and run 'npm test' in order to see if the tests pass.
 
-The script can be found on https://github.com/eddygoto/E-Commerce-Back-End.
+The script can be found on https://github.com/eddygoto/Team-Generator.
 ![Screenshot](/assets/html.png)
 ![JestScreenshot](/assets/jest.png)
+
+The following link will take you to a demo recording:
+https://watch.screencastify.com/v/4KoVNVbivN4qYVgNbvGx
 
 ## Credits
 
