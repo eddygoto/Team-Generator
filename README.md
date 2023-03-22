@@ -40,10 +40,13 @@ THEN I exit the application, and the HTML is generated
 
 This project requires you to use inquirer and jest.
 Use 'npm install' in your terminal to install the dependencies.
-Enter into 'Main' and run 'node index.js' from there to start the application.
-Enter the 'test' directory and run 'npm test' in order to see if the tests pass.
 
 ## Usage
+
+Enter into 'Main' and run 'node index.js' from there to start the application.
+Answer the questions, and the answers will create cards for each employee in index.html.
+
+Enter the 'test' directory and run 'npm test' in order to see if the tests pass.
 
 The script can be found on https://github.com/eddygoto/E-Commerce-Back-End.
 ![Screenshot](/assets/html.png)
